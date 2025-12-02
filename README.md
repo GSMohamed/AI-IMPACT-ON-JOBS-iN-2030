@@ -61,16 +61,16 @@ DAX or Calculated Fields for KPI measurements
 
 
 
-
+# !                        !
+# !                        !
+# !                        ! 
 
 # For More Details View This 
 # !                        !
 # !                        !
 # !                        !
 # !                        !
-# !                        !
-# !                        !
-# !                        ! 
+
 # AI-IMPACT-ON-JOBS-IN-2030
 
 ## 📌 Overview
