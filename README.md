@@ -1,6 +1,7 @@
 # AI-Jobs-2030 Dashboard
 
-# <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/4a0cfdd9-e866-45d5-bb86-d3643abbcc4e" />
+# <img width="150" height="150" alt="image" src="[https://github.com/user-attachments/assets/4a0cfdd9-e866-45d5-bb86-d3643abbcc4e](https://github.com/user-attachments/assets/2ba83e79-908c-4ce8-bf6a-9c41cb1c19fb
+)" />
 
 # 📍 At a Glance
 
@@ -24,7 +25,7 @@ Gain a clear view of how AI is transforming the workforce. This interactive dash
 
 # 3️⃣ AI Exposure & Workforce Transformation
 
-✅ AI Exposure vs Automation Probability (Bubble Chart)  
+✅ AI Exposure vs Automation Probability   
 ✅ AI Adoption Level Across Job Titles  
 ✅ Correlation Between Salary & Tech Transformation Factors
 
@@ -36,7 +37,7 @@ Gain a clear view of how AI is transforming the workforce. This interactive dash
 
 # ⚙️ Tech Stack
 
-Excel / Power BI / Tableau  
+Excel / Power BI /SQL
 Data preprocessing using Excel formulas or Power Query  
 Visualizations created with BI tools  
 DAX or Calculated Fields for KPI measurements  
