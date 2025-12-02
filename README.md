@@ -1,127 +1,58 @@
-# AI-IMPACT-ON-JOBS-iN-2030
+# AI-Jobs-2030 Dashboard
 
-The average salary in the sample of jobs is around $89,370 per year, with a very high technology growth level (about 99.5%) and a medium automation probability approaching 50%. This reflects a highly technological work environment with rapid change.
+# <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/4a0cfdd9-e866-45d5-bb86-d3643abbcc4e" />
 
+# 📍 At a Glance
 
+Gain a clear view of how AI is transforming the workforce. This interactive dashboard analyzes salary trends, automation risks, AI exposure levels, and job stability indicators for 2030. It helps you identify which roles are most vulnerable, which are most resilient, and what skills will matter most in the future job market.
 
+# Charts & Visualizations: 4 Key Pillars
 
-Chart title: How Pay Grows with Experience
+# 1️⃣ Market Performance & Salary Trends
 
-Columns used:
-X-axis: Years_Experience
-Y-axis: Average_Salary (aggregation: Average)
+✅ Average Salary by Years of Experience  
+✅ Salary Distribution Across Tech Growth Levels  
+✅ Average Salary by Education Level (Donut Chart)  
+✅ Salary vs AI Exposure Index  
 
-This chart shows how average pay changes as years of experience increase. Although the line fluctuates at each experience level because people work in different companies, sectors, and roles, the overall pattern suggests that salaries generally rise as professionals gain more experience and skills.
+# 2️⃣ Automation Risk Analysis
 
+✅ Average Automation Probability by Risk Category (Low–Medium–High)  
+✅ Jobs Distribution Across Automation Risk Levels  
+✅ Top 10 Jobs Most Impacted by Automation (2030)  
+✅ Bottom 10 Jobs Least Impacted by Automation (2030)
 
+# 3️⃣ AI Exposure & Workforce Transformation
 
+✅ AI Exposure vs Automation Probability (Bubble Chart)  
+✅ AI Adoption Level Across Job Titles  
+✅ Correlation Between Salary & Tech Transformation Factors
 
+# 4️⃣ Workforce Skill & Stability Indicators
 
+✅ Education Level Impact on Salary  
+✅ Skill-Based Resilience (Routine vs Knowledge-Intensive Roles)  
+✅ Job Stability Indicators vs AI Exposure  
 
-Chart title: Average Salary by Tech Growth Factor
+# ⚙️ Tech Stack
 
-Columns used:
+Excel / Power BI / Tableau  
+Data preprocessing using Excel formulas or Power Query  
+Visualizations created with BI tools  
+DAX or Calculated Fields for KPI measurements  
 
-X-axis: Average_Salary
+# 🚀 How to Use
 
-Y-axis: Tech_Growth_Factor
+1. Open the dashboard file (AI_Jobs_2030.xlsx or .pbix).  
+2. Use filters to explore jobs, skills, salaries, or risk categories.  
+3. Hover over the charts for detailed insights and tooltips.  
+4. Export visuals for reports, presentations, or strategic planning.
 
-Details: Job_Title (each dot represents a job/role)
+# 📈 Example Use Cases
 
-This scatter plot shows how pay varies across roles with different levels of technological growth. While there isn’t a single straight trend line, higher-paying roles tend to appear in fast‑growing tech environments, indicating that sectors with stronger tech adoption are more likely to offer better compensation.
-
-
-
-
-Chart title: How Education Impacts Pay
-
-Columns used:
-
-Category / Legend: Education_Level (High School, Bachelor’s, Master’s, PhD)
-
-Values: Average_Salary (shown as average salary per level)
-
-Additional display: Percentage share of employees in each Education_Level.​
- 
-This donut chart compares average pay across different education levels and shows how common each level is in the dataset. Salaries rise slightly from High School to Bachelor’s, Master’s, and PhD, but the differences are modest, suggesting that while higher education helps improve pay, practical skills and experience still play a major role.​
-
-
-
-
-
-
-
-
-
-
-
-
-Chart title: AI Exposure, 2030 Automation Probability & Pay
-
-Columns used:
-
-X-axis: Average_AI_Exposure_Index
-
-Y-axis: Average_Automation_Probability_2030
-
-Details / Legend: Job_Title (each diamond represents a job)
-
-Size (optional in your chart): Average_Salary, to show pay level for each job.
-
-Caption under the chart:
-This scatter plot maps each job by how much it is exposed to AI (horizontal axis) and how likely it is to be automated by 2030 (vertical axis). Jobs plotted further to the right and higher up are both more AI‑intensive and at greater automation risk, while the marker size reflects their average salary, helping compare which high‑risk roles are also high‑paying.
-
-
-
-
-
-
-Chart title: Avg. of Automation Probability 2030 by Risk Category
-
-Columns used:
-
-Category (Y-axis): Risk_Category (Low, Medium, High)
-
-Value (X-axis): Average_Automation_Probability_2030 (aggregation: Average for each category)
- 
-This bar chart compares the average probability of automation in 2030 across the three risk categories. Jobs in the High‑risk group show the highest automation probability (around 0.83), Medium‑risk jobs sit near 0.50, and Low‑risk roles are close to 0.18, clearly highlighting how much more exposed High‑risk occupations are to future automation.
-
-image.jpg
-28.8 KB
-أعمل نفس الكلام
-
-
-
-
-Chart title: Jobs Distribution by Risk Category
-
-Columns used:
-
-Category (Y-axis): Risk_Category (Low, Medium, High)
-
-Value (X-axis): Count of Job_Title (number of jobs/records in each risk group).
-
- 
-This bar chart shows how jobs are distributed across the three automation‑risk categories. Most roles fall into the Medium‑risk group, while fewer jobs are classified as High or Low risk, highlighting that a large share of the workforce faces a moderate but non‑negligible chance of automation by 2030.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ك
-
+📊 Analyze future job vulnerability based on AI exposure and automation probability.  
+💼 Compare salary progression across experience levels and tech intensity.  
+🤖 Identify high-risk job categories to guide reskilling and training programs.  
+📚 Understand how education level influences job resilience in an AI-driven world.  
+🏙️ Support workforce planning for companies, HR teams, and policymakers.
 
