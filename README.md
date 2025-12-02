@@ -1,7 +1,7 @@
 # AI-Jobs-2030 Dashboard
 
-# <img width="150" height="150" alt="image" src="[https://github.com/user-attachments/assets/4a0cfdd9-e866-45d5-bb86-d3643abbcc4e](https://github.com/user-attachments/assets/2ba83e79-908c-4ce8-bf6a-9c41cb1c19fb
-)" />
+# <img width="150" height="150" alt="AI Jobs Dashboard" src="[LINK-HERE](https://th.bing.com/th/id/R.35e2f76388e2ce2582e2122068d1c1bf?rik=E8AYz8piT3kK9A&riu=http%3a%2f%2fwww.marktechpost.com%2fwp-content%2fuploads%2f2023%2f04%2ffuture-artificial-intelligence-robot-network-system-background-scaled.jpg&ehk=4OFmRdCI6UB%2bdvntd%2f73kIC5wHxsLekoc4LW04DTBdA%3d&risl=&pid=ImgRaw&r=0)" />
+
 
 # 📍 At a Glance
 
