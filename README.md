@@ -37,7 +37,7 @@ Gain a clear view of how AI is transforming the workforce. This interactive dash
 
 # ⚙️ Tech Stack
 
-Excel / Power BI /SQL
+Excel / Power BI /SQL                             
 Data preprocessing using Excel formulas or Power Query  
 Visualizations created with BI tools  
 DAX or Calculated Fields for KPI measurements  
